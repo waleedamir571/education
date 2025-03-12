@@ -110,6 +110,8 @@
                                 </p>
                                 <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                                     Provides free lunches every school day to ensure that its students have at least one nutritious meal. 
+                                    <br>
+                                    <br>
                                     •Provides basic medical care to children and their families. 
                                     
 

@@ -241,26 +241,26 @@
                                 <ul>
                                     
                                     <li class="has-dropdown active menu-thumb">
-                                        <a href="about.php">
+                                        <a href="about">
                                             About
 
                                         </a>
 
                                     </li>
                                     <li class="has-dropdown">
-                                        <a href="education.php">
+                                        <a href="education">
                                             Education
 
                                         </a>
 
                                     </li>
                                     <li>
-                                        <a href="nutrition.php">
+                                        <a href="nutrition">
                                             Nutrition
 
                                     </li>
                                     <li>
-                                        <a href="community-sustainability.php">
+                                        <a href="community-sustainability">
                                             Community
                                             Sustainability
 
@@ -268,18 +268,18 @@
 
                                    
                                     <li>
-                                        <a href="video.php">
+                                        <a href="video">
                                             Video
 
                                     </li>
                                     <li>
-                                        <a href="get-involved.php">
+                                        <a href="get-involved">
                                             Get
                                             Involved
 
                                     </li>
                                     <li>
-                                        <a href="contact.php">Contact </a>
+                                        <a href="contact">Contact </a>
                                     </li>
                                 </ul>
                             </nav>
