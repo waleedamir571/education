@@ -2,7 +2,7 @@
 <html lang="en">
 <!--<< Header Area >>-->
 
-<!-- Mirrored from ex-coders.com/html/eduvate/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Mar 2025 17:25:44 GMT -->
+
 
 <head>
     <!-- ========== Meta Tags ========== -->
@@ -10,9 +10,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Scriptotheme">
-    <meta name="description" content="EduVate - Kindergarten School HTML Template">
+    <meta name="description" content="Non-Profit">
     <!-- ======== Page title ============ -->
-    <title>EduVate - Kindergarten School HTML Template</title>
+    <title>Non-Profit</title>
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="assets/img/favicon.svg">
     <!--<< Bootstrap min.css >>-->
@@ -47,7 +47,7 @@
         <div class="animation-preloader">
             <div class="spinner">
             </div>
-            <div class="txt-loading">
+            <!-- <div class="txt-loading">
                 <span data-text-preloader="E" class="letters-loading">
                     E
                 </span>
@@ -69,8 +69,8 @@
                 <span data-text-preloader="E" class="letters-loading">
                     E
                 </span>
-            </div>
-            <p class="text-center">Loading</p>
+            </div> -->
+            <p class="text-center">Non-Profit</p>
         </div>
         <div class="loader">
             <div class="row">
@@ -106,7 +106,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.html">
+                            <a href="#">
                                 <img src="assets/img/hero/logo.png" alt="logo-img">
                             </a>
                         </div>
@@ -121,7 +121,7 @@
                         feugiat leo urna eget eros. Duis Aenean a imperdiet risus.
                     </p>
                     <div class="mobile-menu fix mb-3"></div>
-                    <div class="offcanvas__contact">
+                    <!-- <div class="offcanvas__contact">
                         <h4>Contact Info</h4>
                         <ul>
                             <li class="d-flex align-items-center">
@@ -169,7 +169,7 @@
                             <a href="#"><i class="fab fa-youtube"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -184,7 +184,7 @@
                     <li>
                         <div class="header-left">
                             <div class="logo">
-                                <a href="index.html" class="header-logo">
+                                <a href="index.php" class="header-logo">
                                     <img class="w-200" src="assets/img/hero/logo.png" alt="logo-img">
                                 </a>
                             </div>
@@ -217,7 +217,7 @@
                 </ul>
                 <div class="social-icon d-flex align-items-center">
                     <div class="header-button">
-                        <a href="courses-details.html" class="theme-btn">
+                        <a href="#" class="theme-btn">
                             <span>
                                 Donate Now
                                 <i class="fa-solid fa-heart"></i>
@@ -266,25 +266,20 @@
 
                                     </li>
 
+                                   
                                     <li>
-                                        <a href="news-details.html">
-                                            Community
-                                            Sustainability
-
-                                    </li>
-                                    <li>
-                                        <a href="news-details.html">
+                                        <a href="video.php">
                                             Video
 
                                     </li>
                                     <li>
-                                        <a href="news-details.html">
+                                        <a href="get-involved.php">
                                             Get
                                             Involved
 
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact </a>
+                                        <a href="contact.php">Contact </a>
                                     </li>
                                 </ul>
                             </nav>

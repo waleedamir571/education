@@ -26,6 +26,14 @@ Version: 1.0.0
   font-family: 'Kohinoor', sans-serif;
 }
 
+
+.h-15{
+  height: 18rem;
+}
+.h-12{
+  height: 15rem;
+}
+
 .div2 {
   width: 75%;
   height: auto;
@@ -124,12 +132,7 @@ Version: 1.0.0
     padding: 20px 32px;
   }
 }
-@media (max-width: 575px) {
-  .theme-btn {
-    padding: 18px 30px;
-    font-size: 14px;
-  }
-}
+
 
 .link-btns {
   font-size: 18px;
@@ -218,6 +221,7 @@ h1 {
   font-weight: 700;
   line-height: 114%;
 }
+
 @media (max-width: 1399px) {
   h1 {
     font-size: 75px;
@@ -7037,6 +7041,20 @@ input.main-search-input::placeholder {
   letter-spacing: -1.02px;
   line-height: 152%;
   color: var(--header);
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+  .theme-btn {
+    padding: 18px 30px;
+    font-size: 14px;
+  }
+  .header-main {
+    display: flex
+;
+    align-items: revert-layer;
+    justify-content: flex-start;
+    padding: 10px 0;
+}
 }
 @media (max-width: 575px) {
   .testimonial-wrapper-3 .testimonial-item .content p {

@@ -152,7 +152,7 @@
                   
                 </div>
                 <div class="col-lg-4">
-                    <img class="w-100" src="assets/img/education/e4.png" alt="">
+                    <img class="w-100 h-15" src="assets/img/education/e4.png" alt="">
                   
                 </div>
                 <div class="col-lg-4">

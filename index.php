@@ -143,7 +143,7 @@
                 <div class="row g-4 align-items-center">
 
                     <div class="col-lg-4">
-                        <img class="w-100" src="assets/img/hero/1.png" alt="">
+                        <img class="w-100 h-12" src="assets/img/hero/1.png" alt="">
                       
                     </div>
                     <div class="col-lg-4">

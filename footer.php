@@ -194,6 +194,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from ex-coders.com/html/eduvate/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Mar 2025 17:26:17 GMT -->
+
 
 </html>
