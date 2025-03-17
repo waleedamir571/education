@@ -23,9 +23,26 @@ Version: 1.0.0
 }
 
 * {
-  font-family: 'Kohinoor', sans-serif;
+  /* font-family: 'Kohinoor', sans-serif; */
+  /* font-family: 'Myriad Pro', sans-serif; */
+  font-family: 'MyriadPro', sans-serif;
 }
 
+.width-104{
+  width: 104%;
+}
+
+.myriad-pro {
+  font-family: 'MyriadPro', sans-serif !important;
+ 
+} 
+.h-20{
+  height: 21rem;
+}
+
+.w-80{
+  width: 80%;
+}
 
 .h-15{
   height: 18rem;
@@ -35,25 +52,29 @@ Version: 1.0.0
 }
 
 .div2 {
-  width: 75%;
+  width: 100%;
   height: auto;
-  padding: 50px;
+  padding: 118px;
   border: 2px solid #1B5A70;
   font-weight: 600 !important;
 }
+.fw-bold{
+  font-weight: bold !important;
+}
 
 .poppins {
-  font-family: "Poppins", sans-serif !important;
+  /* font-family: "Poppins", sans-serif !important; */
+  font-family: 'Kohinoor', sans-serif;
 }
 
 .top-8{
   position: relative;
-  top: -8rem;
+  top: -26rem;
 }
 
 .top-21{
   position: relative;
-  top: -12rem;
+  top: -29rem;
 }
 
 
@@ -69,10 +90,10 @@ Version: 1.0.0
   border-radius: 30px;
   background: #E04137;
   color: var(--white);
-  font-size: 18px;
+  font-size: 23px;
   font-weight: 600;
   line-height: 1;
-  padding: 20px 30px;
+  padding: 20px 40px;
 }
 .theme-btn i {
   margin-left: 5px;
@@ -88,8 +109,13 @@ Version: 1.0.0
   line-height: normal;
 }
 
-.w-200{
-  width: 275px;
+.w-200 {
+  /* width: 700px;
+  height: 147px; */
+  width: 641px;
+  /* height: 174.689px; */
+  /* flex-shrink: 0; */
+  /* aspect-ratio: 641.06 / 174.69; */
 }
 .theme-btn::before {
   content: "";
@@ -152,11 +178,20 @@ Version: 1.0.0
   transform: rotate(0);
 }
 
+.myriad{
+  font-family: 'Myriad Pro', sans-serif;
+}
+
+.kohinoor{
+  font-family: 'Kohinoor', sans-serif;
+}
 /* --------------------------------------------
     Template Default Fonts & Fonts Styles
  ---------------------------------------------- */
 body {
-  font-family: 'Kohinoor', sans-serif;
+  /* font-family: 'Kohinoor', sans-serif; */
+  /* font-family: 'Myriad Pro', sans-serif; */
+  font-family: 'MyriadPro', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -179,13 +214,12 @@ ul {
 
 .text {
   color: #1B5A70;
-  font-family: "Poppins", sans-serif !important;
-  font-size: 27px;
+  /* font-family: "Poppins", sans-serif !important; */
+  font-size: 34px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   line-height: normal;
 }
-
 button {
   border: none;
   background-color: transparent;
@@ -249,8 +283,8 @@ h1 {
 }
 
 h2 {
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 84px;
+  font-weight: 400;
   line-height: 125%;
 }
 @media (max-width: 1199px) {
@@ -394,7 +428,7 @@ span {
   }
 }
 .about-wrapper .about-content {
-  margin-left: 70px;
+  /* margin-left: 70px; */
 }
 @media (max-width: 1199px) {
   .about-wrapper .about-content {
@@ -3917,7 +3951,7 @@ span {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 0;
+  /* padding: 2px 24px 11px 65px; */
 }
 .header-top-wrapper .contact-list {
   display: flex;
@@ -3957,40 +3991,67 @@ span {
 }
 
 .header-main {
-  display: flex
-;
+  display: flex;
   align-items: revert-layer;
   justify-content: center;
-  padding: 10px 0;
+  padding: 10px 0px 12px 0px;
+  margin-top: 0rem;
+  margin-left: -3rem;
 }
 .header-main .main-menu ul {
-  margin-bottom: 0;
+  margin-bottom: 0px;
 }
+.header-main .main-menu ul {
+  display: flex;
+  justify-content: center; /* Items ko center align karega */
+  padding: 0;
+  margin: 0;
+}
+
 .header-main .main-menu ul li {
   position: relative;
   list-style: none;
   display: inline-block;
-  margin-inline-end: 40px;
+  margin-inline-end: 8%;
 }
+
+/* ✅ Responsive Adjustments */
+@media (max-width: 1200px) {
+  .header-main .main-menu ul li {
+      margin-inline-end: 4%;
+  }
+}
+
+@media (max-width: 992px) {
+  .header-main .main-menu ul li {
+      margin-inline-end: 3%;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-main .main-menu ul {
+      flex-direction: column; /* Choti screens pe vertical menu */
+      align-items: center;
+  }
+  .header-main .main-menu ul li {
+      margin: 10px 0; /* Top-bottom margin for spacing */
+  }
+}
+
 .header-main .main-menu ul li:last-child {
   margin-inline-end: 0;
 }
 .header-main .main-menu ul li a {
-  /* display: inline-block;
-  font-size: 16px;
-  font-weight: 400;
-  color: var(--header);
-  padding: 20px 0;
-  text-align: left;
-  position: relative; */
   text-transform: capitalize;
   transition: all 0.4s ease-in-out;
   color: #1B5A70;
   /* font-family: "Inria Sans"; */
-  font-size: 22px;
-  font-style: normal;
+  font-size: 42px;
+  /* font-style: oblique; */
   font-weight: 400;
   line-height: normal;
+  font-family: 'MyriadPro', sans-serif;
+  line-height: 40px;
 }
 .header-main .main-menu ul li a i {
   margin-left: 4px;
@@ -4178,8 +4239,10 @@ span {
   font-size: 20px;
 }
 
+
+
 .container-fluid {
-  padding: 0 180px;
+  padding: 0 90px;
 }
 @media (max-width: 1600px) {
   .container-fluid {
@@ -4292,7 +4355,7 @@ span {
 }
 
 .sticky {
-  position: fixed !important;
+  position: absolute !important;
   top: 0 !important;
   left: 0;
   width: 100%;
@@ -6509,11 +6572,15 @@ input.main-search-input::placeholder {
 
 .section-bg {
   background-color: var(--bg);
-  background-image: url(../img/hero/banner.png);
+  background-image: url(../img/hero/banner1.jpg);
   background-size: cover; /* Ensures the image covers the entire area without stretching */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat;
   height: 80vh; /* Set height to 80% of viewport height */
+}
+
+.container1{
+  padding: 0 0px !important;
 }
 
 .theme-bg {
@@ -6521,7 +6588,7 @@ input.main-search-input::placeholder {
 }
 
 .section-padding {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 @media (max-width: 1199px) {
   .section-padding {

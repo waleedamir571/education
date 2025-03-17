@@ -7,7 +7,7 @@
     <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
         Meet The Renand Foundation
     </h2>
-    <div class="container">
+    <div class="container-fluid">
 
         <div class="about-wrapper">
             <div class="row g-4 align-items-center">
@@ -86,7 +86,7 @@
     <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
         Board of Directors
     </h2>
-    <div class="container">
+    <div class="container-fluid">
 
         <div class="about-wrapper">
             <div class="row g-4 ">
@@ -94,10 +94,10 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/1.png" alt="">
+                            <img class="w-80" src="assets/img/about/1.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Mike Gaff, Board Chair and Executive
                                 Director, is an experienced fundraising
                                 professional with 15+ years in non-
@@ -113,10 +113,10 @@
                     <br>
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/2.png" alt="">
+                            <img class="w-80" src="assets/img/about/2.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Roy Waldron, Board Secretary, retired in
                                 2018 as Senior VP and Chief IP Counsel at
                                 Pfizer Inc., where he led a global legal team.
@@ -131,10 +131,10 @@
                     <br>
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/3.png" alt="">
+                            <img class="w-80" src="assets/img/about/3.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 George Zuber, Board Treasurer, is a retired
                                 partner with Deloitte LLP. He has served
                                 on numerous Boards of Directors, including
@@ -149,10 +149,10 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/4.png" alt="">
+                            <img class="w-80" src="assets/img/about/4.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Andis Tamayo, Board Member and Founder, established
                                 the Foundation to combat the restavek crisis after a
                                 transformative trip to Haiti in 2015. Today, it empowers
@@ -167,10 +167,10 @@
                     <br>
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/5.png" alt="">
+                            <img class="w-80" src="assets/img/about/5.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 John Pritchard, Board Member, has over 30 years of
                                 experience in wealth management, leading projects,
                                 managing products, and supervising teams. With expertise
@@ -189,20 +189,20 @@
             </div>
         </div>
     </div>
-    <div class="container">
+    <div class="container-fluid">
 
         <div class="about-wrapper">
             <div class="row g-4 ">
                 <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
                     Officer
                 </h2>
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/6.png" alt="">
+                            <img class="w-80" src="assets/img/about/6.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Wendy Flores-Bravo, Director of Operations, brings over
                                 20 years of experience in accounting and operations, including
                                 financial analysisand strategic decision-making. For the past
@@ -225,7 +225,7 @@
         </div>
     </div>
     <br>
-    <div class="container">
+    <div class="container-fluid">
 
         <div class="about-wrapper">
             <div class="row g-4 ">
@@ -235,10 +235,10 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/7.png" alt="">
+                            <img class="w-80" src="assets/img/about/7.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Maxeau Pierre, Managing Director FSC-RENAND,
                                 Maxeau Pierre is the Managing Director of
                                 Renand Foundation. A lawyer by training,
@@ -253,10 +253,10 @@
                     <br>
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/8.png" alt="">
+                            <img class="w-80" src="assets/img/about/8.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Jerry Jean, Superintendent of FSC-RENAND,
                                 holds a bachelor’s in educational sciences
                                 from UNDH (Université Notre Dame d'Haïti)
@@ -273,10 +273,10 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/9.png" alt="">
+                            <img class="w-80" src="assets/img/about/9.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Dr. Maurice Milord, Senior Doctor, is a General 
                                 Practitioner with a degree from the Technological 
                                 University of Santiago (UTESA) and is currently 
@@ -296,7 +296,7 @@
         </div>
     </div>
     <br>
-    <div class="container">
+    <div class="container-fluid">
 
         <div class="about-wrapper">
             <div class="row g-4 ">
@@ -306,10 +306,10 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/10.png" alt="">
+                            <img class="w-80" src="assets/img/about/10.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Brian McNaught, Council Member, is an author 
                                 and columnist, specializing in LGBTQ issues. 
                                 A respected corporate Diversity, Equity, and 
@@ -323,10 +323,10 @@
                     <br>
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/11.png" alt="">
+                            <img class="w-80" src="assets/img/about/11.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Marcques Parrott, Council Member, has 
                                 20 years of experience in health and 
                                 hospitality, with senior roles at Marriott, 
@@ -342,10 +342,10 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="w-100" src="assets/img/about/12.png" alt="">
+                            <img class="w-80" src="assets/img/about/12.png" alt="">
                         </div>
                         <div class="col-md-8">
-                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text1 mt-3 mt-mb-0 wow fadeInUp fw-bold" data-wow-delay=".5s">
                                 Evan H Dillon MD, Council Member, retired in 
                                 2018 as Chief of Diagnostic Radiology at 
                                 Lenox Hill Hospital in NYC. He has served on the 

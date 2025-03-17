@@ -7,10 +7,10 @@
     <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
         Making A Difference in Nutrition
     </h2>
-    <div class="container">
+    <div class="container-fluid">
 
 
-        <div class="row g-4 align-items-center">
+        <div class="row g-4 ">
 
 
 
@@ -19,18 +19,20 @@
                     <div class="section-title">
 
                         <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
-                            Haiti is the only country in the Americas with
-                            an adult literacy rate of less than 50 percent,
-                            and a youth literacy rate of less than
-                            80 percent. The Haitian educational system is
-                            ranked 177th out of 186 globally in terms of national
-                            spending on education. Consequently, there are
-                            no public schools in almost all of Haiti.
-                            Around 90% of schools in Haiti are privately run,
-                            mostly by for-profit organizations or by religious
-                            institutions, which charge tuition. More than half
-                            of Haiti's population lives below the international
-                            poverty line of $1.25 per day, so it's very difficult
+                            When a child is hungry, 
+                            their focus is on eating, not 
+                            learning. Because of 
+                            pervasive poverty,  children 
+                            in Haiti often eat only every 
+                            other day.  To help build 
+                            happier, healthier students, 
+                            the Renand Foundation 
+                            provides each child attending 
+                            one of its educational 
+                            programs with a daily meal.  
+                            Due to the generosity of our 
+                            sponsors, our students are 
+                            not distracted by hunger.
 
                         </p>
 
@@ -65,7 +67,7 @@
             </div>
         </div>
         <br>
-        <div class="row g-4 align-items-center">
+        <div class="row g-4 ">
 
             <div class="col-lg-5 ">
                 <img class="w-100" src="assets/img/nutri/n2.png" alt="">
@@ -99,7 +101,7 @@
 
         </div>
         <br>
-        <div class="row g-4 ">
+        <div class="row g-4 h-20">
 
             <div class="col-lg-5 ">
                 <div class="about-content">
@@ -120,7 +122,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-3 top-21">
+            <div class="col-lg-2 top-21">
                 <div class="about-content">
                     <div class="section-title">
 
@@ -152,12 +154,12 @@
                 <img class="w-100" src="assets/img/nutri/n4.png" alt="">
             </div>
 
-            <div class="col-lg-5 offset-lg-1">
+            <div class="col-lg-4 offset-lg-1">
                 <div class="about-content">
                     <div class="section-title">
-                        <div class="div2 text">As little as $14 
-                            a month can 
-                            provide a student with lunch 
+                        <div class="div2 text">As little as $14 <br>
+                            a month can  <br>
+                            provide a student <br> with lunch <br>
                             every school day. </div>
                     </div>
 

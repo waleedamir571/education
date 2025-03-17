@@ -58,15 +58,15 @@
 
     <!-- About-section Start -->
     <section class="about-section-1 section-padding fix">
-        <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
+        <h2 class="wow fadeInUp text-center kohinoor" data-wow-delay=".3s">
             Where Hope for Haiti Thrives
         </h2>
-        <div class="container">
+        <div class="container-fluid">
 
             <div class="about-wrapper">
                 <div class="row g-4 align-items-center">
 
-                    <div class="col-lg-12">
+                    <div class="col-lg-11">
                         <div class="about-content">
                             <div class="section-title">
 
@@ -139,21 +139,21 @@
     <!-- Popular-courses-section Start -->
     <section class="about-section-1 section-padding fix">
       
-        <div class="container-fluid">
+        <div class="container-fluid container1">
 
             <div class="about-wrapper">
                 <div class="row g-4 align-items-center">
 
                     <div class="col-lg-4">
-                        <img class="w-100 h-12" src="assets/img/hero/1.png" alt="">
+                        <img class="width-104" src="assets/img/hero/1.jpg" alt="">
                       
                     </div>
                     <div class="col-lg-4">
-                        <img class="w-100" src="assets/img/hero/2.png" alt="">
+                        <img class="width-104" src="assets/img/hero/2.png" alt="">
                       
                     </div>
                     <div class="col-lg-4">
-                        <img class="w-100" src="assets/img/hero/3.png" alt="">
+                        <img class="width-104" src="assets/img/hero/3.png" alt="">
                       
                     </div>
                 </div>

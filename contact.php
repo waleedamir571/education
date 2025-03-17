@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p class="text mt-3 mt-mb-0 wow fadeInUp text-center" data-wow-delay=".5s">
+                <p class="text mt-3 mt-mb-0 wow fadeInUp " data-wow-delay=".5s">
                     If you’d like to learn more about the Renand Foundation and its work,
                     we’d love to hear from you. We also can provide you with information
                     about special projects that you might be interested in supporting

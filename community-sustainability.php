@@ -7,10 +7,10 @@
     <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
         Providing Healthcare
     </h2>
-    <div class="container">
+    <div class="container-fluid">
 
 
-        <div class="row g-4 align-items-center">
+        <div class="row g-4 ">
 
             <div class="col-lg-5">
                 <img class="w-100" src="assets/img/community/c1.png" alt="">
@@ -88,7 +88,7 @@
     <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
         Other Sustaining Support
     </h2>
-    <div class="container">
+    <div class="container-fluid">
 
         <div class="row g-4 align-items-center">
 

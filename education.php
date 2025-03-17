@@ -7,10 +7,10 @@
     <h2 class="wow fadeInUp text-center poppins" data-wow-delay=".3s">
         Making A Difference in Education
     </h2>
-    <div class="container">
+    <div class="container-fluid">
 
 
-        <div class="row g-4 align-items-center">
+        <div class="row g-4 ">
 
             <div class="col-lg-5">
                 <img class="w-100" src="assets/img/education/e1.png" alt="">
@@ -75,11 +75,11 @@
             </div>
         </div>
         <br>
-        <div class="row g-4 align-items-center">
+        <div class="row g-4 ">
 
            
 
-            <div class="col-lg-6 ">
+            <div class="col-lg-6  ">
                 <div class="about-content">
                     <div class="section-title">
 
@@ -100,7 +100,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-5 offset-lg-1">
+            <div class="col-lg-6 ">
                 <img class="w-100" src="assets/img/education/e2.png" alt="">
             </div>
         </div>
@@ -142,21 +142,21 @@
 
 <section class="about-section-1 section-padding fix">
       
-    <div class="container-fluid">
+    <div class="container-fluid container1">
 
         <div class="about-wrapper">
             <div class="row g-4 align-items-center">
 
                 <div class="col-lg-4">
-                    <img class="w-100" src="assets/img/education/e3.png" alt="">
+                    <img class="width-104" src="assets/img/education/e3.png" alt="">
                   
                 </div>
                 <div class="col-lg-4">
-                    <img class="w-100 h-15" src="assets/img/education/e4.png" alt="">
+                    <img class="width-104 " src="assets/img/education/e4.jpg" alt="">
                   
                 </div>
                 <div class="col-lg-4">
-                    <img class="w-100" src="assets/img/education/e5.png" alt="">
+                    <img class="width-104" src="assets/img/education/e5.png" alt="">
                   
                 </div>
             </div>

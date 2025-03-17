@@ -1,6 +1,9 @@
 @font-face {
     font-family: 'Kohinoor';
     src: url("../webfonts/kohinoor-devanagari.ttf") format("truetype");
+    src: url('../webfonts/MYRIADPRO-REGULAR.OTF') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
