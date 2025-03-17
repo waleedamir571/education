@@ -14,11 +14,11 @@
 
 
 
-            <div class="col-lg-5">
+            <div class="col-lg-4">
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             When a child is hungry, 
                             their focus is on eating, not 
                             learning. Because of 
@@ -40,7 +40,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-8">
                 <img class="w-100" src="assets/img/nutri/n1.png" alt="">
             </div>
         </div>
@@ -52,7 +52,7 @@
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             Foundation leadership works with our cooks at each school and after-school center to
                             ensure that the meals are nutritionally balanced.  The meal typically includes rice or
                             noodles topped with a portion of meat, sauce, a vegetable and fruit, accompanied
@@ -77,7 +77,7 @@
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             The Renand Foundation supports the local
                             economy by sourcing much of its fresh fruit
                             and vegetables from the local marketplace.
@@ -108,7 +108,7 @@
                     <div class="section-title">
 
                         <br>
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2 width-50  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
 
                             <br>
                             <br>
@@ -127,7 +127,7 @@
                     <div class="section-title">
 
                         <br>
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             Some of our
                             students
                             participate in
@@ -143,7 +143,7 @@
 
                 </div>
             </div>
-            <div class="col-md-4 top-8">
+            <div class="col-md-3 top-8">
                 <img class="w-100" src="assets/img/nutri/n3.png" alt="">
             </div>
         </div>
@@ -154,8 +154,8 @@
                 <img class="w-100" src="assets/img/nutri/n4.png" alt="">
             </div>
 
-            <div class="col-lg-4 offset-lg-1">
-                <div class="about-content">
+            <div class="col-lg-4 ">
+                <!-- <div class="about-content">
                     <div class="section-title">
                         <div class="div2 text">As little as $14 <br>
                             a month can  <br>
@@ -163,7 +163,8 @@
                             every school day. </div>
                     </div>
 
-                </div>
+                </div> -->
+                <img class="w-100" src="assets/img/hero/little.png" alt="">
             </div>
 
         </div>

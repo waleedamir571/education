@@ -17,7 +17,7 @@
                         <div class="section-title">
 
 
-                            <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                                 The Renand Foundation was founded in 2015 by two Fort Lauderdale residents, Andis
                                 Tamayo and Renato Silva.  While traveling to Bassin Bleu, one of Haiti’s most beautiful
                                 natural resources near Jacmel, Andis and Renato saw firsthand the devasting impact of
@@ -28,7 +28,7 @@
 
 
                             </p>
-                            <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                                 It rapidly became evident that the best hope for these children was to ensure that local
                                 families had sufficient income to provide food, clothing and shelter to their children.
 
@@ -42,14 +42,14 @@
                                 local vendors.
 
                             </p>
-                            <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                                 For nearly a decade, the Foundation has built schools, offered basic healthcare, and
                                 provided economic opportunities, including employment in teaching, medical services,
                                 construction and related skills.  By sourcing supplies locally whenever possible, the
                                 Foundation has helped to build businesses in the community.
 
                             </p>
-                            <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                                 The Foundation operates in the region surrounding Jacmel, Haiti’s seventh largest city.
 
                                 Jacmel is located on Haiti’s southern most peninsula, which is separated from the
@@ -61,7 +61,7 @@
 
 
                             </p>
-                            <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                            <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                                 The money provided by the Renand Foundation to fund their operations in Haiti is wired
                                 monthly directly to the bank account of the Foundation’s local affiliate, Foyer
                                 Socio-Culturel Renand (FSCR). The Renand Foundation does not permit any moneys to be

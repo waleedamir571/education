@@ -36,10 +36,9 @@ Version: 1.0.0
   font-family: 'MyriadPro', sans-serif !important;
  
 } 
-.h-20{
-  height: 21rem;
+.h-20 {
+  height: 11rem;
 }
-
 .w-80{
   width: 80%;
 }
@@ -61,6 +60,21 @@ Version: 1.0.0
 .fw-bold{
   font-weight: bold !important;
 }
+.text2 {
+  color: #1B5A70;
+  
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.width-50{
+  width: 50rem;
+  position: absolute;
+  top: -6rem;
+
+}
 
 .poppins {
   /* font-family: "Poppins", sans-serif !important; */
@@ -69,12 +83,12 @@ Version: 1.0.0
 
 .top-8{
   position: relative;
-  top: -26rem;
+  top: -21rem;
 }
 
 .top-21{
   position: relative;
-  top: -29rem;
+  top: -24rem;
 }
 
 

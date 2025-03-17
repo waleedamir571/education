@@ -20,7 +20,7 @@
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             The Renand Foundation provides free basic
                             healthcare to children and their families in
                             the Jacmel region. For thousands of people
@@ -51,7 +51,7 @@
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             Thanks to your support, the Foundation now operates a mobile clinic visiting
                             each of its academy and after-school locations. Healthcare services include
                             examinations, treatment of basic injuries and infections, referrals for serious
@@ -98,7 +98,7 @@
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             The Renand Foundation builds better lives for families in the community, thus ensuring
                             a better future for the children.
                             <br>
@@ -117,13 +117,11 @@
 
         <div class="row g-4 align-items-center">
 
-
-
             <div class="col-lg-7">
                 <div class="about-content">
                     <div class="section-title">
 
-                        <p class="text mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
+                        <p class="text2  mt-3 mt-mb-0 wow fadeInUp" data-wow-delay=".5s">
                             The Foundation’s agriculture training program
                             teaches farmers modern methods to grow
                             nutritious crops using sustainable techniques.
